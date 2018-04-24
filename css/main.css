@@ -93,6 +93,8 @@ a {
     color: #0087cc;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
+    text-align: center;
+    position: relative;
 }
 
 a:hover, a:focus, a:active {
@@ -502,7 +504,7 @@ form,
 }
 
 .pace .pace-progress {
-    background: #39b54a;
+    background: #6bb1ff;
     position: fixed;
     z-index: 900;
     top: 0;
@@ -545,7 +547,7 @@ form,
 }
 
 .line-scale-pulse-out > div {
-    background-color: #39b54a;
+    background-color: #6bb1ff;
     width: 4px;
     height: 35px;
     border-radius: 2px;
@@ -1246,7 +1248,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     line-height: 1.333;
     text-transform: uppercase;
     letter-spacing: .25rem;
-    color: #39b54a;
+    color: #6bb1ff;
     margin-top: 0;
     margin-bottom: 0;
 }
@@ -1651,7 +1653,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     font-size: 1.3rem;
     text-transform: uppercase;
     letter-spacing: .3rem;
-    color: #39b54a;
+    color: #6bb1ff;
     -webkit-transition: all 0.5s ease-in-out;
     transition: all 0.5s ease-in-out;
 }
@@ -1859,8 +1861,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-content__scroll a::before {
-    border-bottom: 2px solid #39b54a;
-    border-right: 2px solid #39b54a;
+    border-bottom: 2px solid #6bb1ff;
+    border-right: 2px solid #6bb1ff;
     content: '';
     display: block;
     height: 8px;
@@ -1884,7 +1886,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     display: block;
     width: 2px;
     height: 10.2rem;
-    background-color: #39b54a;
+    background-color: #6bb1ff;
     position: absolute;
     right: 7.2rem;
     bottom: 0;
@@ -2200,7 +2202,7 @@ html.no-csstransitions .home-content__main {
 .s-about {
     padding-top: 16.2rem;
     padding-bottom: 9rem;
-    background-color: #39b54a;
+    background-color: #6bb1ff;
     color: #010507;
     position: relative;
 }
@@ -2731,6 +2733,8 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 .s-clients {
     padding-top: 16.2rem;
+    margin-left: auto;
+    margin-right: auto;
     padding-bottom: 16.8rem;
     background-color: #e6e6e6;
     color: #757575;
@@ -2743,6 +2747,8 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 .clients-outer {
     margin-top: 3.6rem;
+    margin-left: auto;
+    margin-right: auto;
     padding-bottom: 9rem;
     text-align: center;
     position: relative;
@@ -2750,10 +2756,14 @@ html.no-csstransitions .home-content__main {
 
 .clients__slide {
     display: block;
+    margin-left: auto;
+    margin-right: auto;
     opacity: .55;
     padding: 1.5rem 2.8rem;
     -webkit-transition: opacity 0.5s ease-in-out;
     transition: opacity 0.5s ease-in-out;
+    position: relative;
+
 }
 
 .clients__slide:hover, .clients__slide:focus {
@@ -3444,8 +3454,8 @@ footer .row {
     top: 0;
     right: 0;
     color: #FFFFFF;
-    background: #39b54a;
-    border-color: #39b54a;
+    background: #6bb1ff;
+    border-color: #6bb1ff;
     padding: 0 20px;
 }
 

@@ -197,6 +197,7 @@
 }
 .icon-earth:before {
     content: "\e939";
+    color: #6bb1ff;
 }
 .icon-edit:before {
     content: "\e93a";
@@ -251,6 +252,7 @@
 }
 .icon-floppy:before {
     content: "\e94b";
+    color: #6bb1ff;
 }
 .icon-folder:before {
     content: "\e94c";
@@ -287,6 +289,7 @@
 }
 .icon-group:before {
     content: "\e957";
+    color: #6bb1ff;
 }
 .icon-headset:before {
     content: "\e958";
@@ -326,6 +329,7 @@
 }
 .icon-layers:before {
     content: "\e964";
+    color: #6bb1ff;
 }
 .icon-leaf:before {
     content: "\e965";
@@ -371,6 +375,7 @@
 }
 .icon-megaphone:before {
     content: "\e973";
+    color: #6bb1ff;
 }
 .icon-meh:before {
     content: "\e974";
@@ -449,6 +454,7 @@
 }
 .icon-paint-brush:before {
     content: "\e98d";
+    color: #6bb1ff;
 }
 .icon-paper-plane:before {
     content: "\e98e";
@@ -536,6 +542,7 @@
 }
 .icon-search:before {
     content: "\e9aa";
+    color: #6bb1ff;
 }
 .icon-selection:before {
     content: "\e9ab";
@@ -614,6 +621,7 @@
 }
 .icon-terminal:before {
     content: "\e9c4";
+    color: #6bb1ff;
 }
 .icon-text:before {
     content: "\e9c5";
@@ -644,6 +652,7 @@
 }
 .icon-tv:before {
     content: "\e9ce";
+    color: #6bb1ff;
 }
 .icon-umbrella:before {
     content: "\e9cf";
